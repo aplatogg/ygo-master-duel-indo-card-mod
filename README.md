@@ -56,7 +56,7 @@ Jika Anda ingin memodifikasi atau menjalankan installer ini langsung menggunakan
 ### Cara Menjalankan:
 1.  Clone repositori ini:
     ```bash
-    git clone https://github.com/USERNAME/REPO-NAME.git
+    git clone https://github.com/aplatogg/ygo-master-duel-indo-card-mod
     cd REPO-NAME
     ```
 2.  Buat virtual environment dan aktifkan:
